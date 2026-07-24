@@ -20,6 +20,8 @@ A C program that calculates the best available movie ticket discount based on a 
 
 ## Example Output
 
+```bash
+
 Enter the ticket price: $20
 Enter your age: 70
 Are you a VIP member? (Y/N): Y
@@ -28,3 +30,5 @@ Are you a VIP member? (Y/N): Y
 Original Ticket Price: $20.00
 Discount Applied: Senior Discount (30%)
 Final Ticket Price: $14.00
+
+```
